@@ -1,0 +1,33 @@
+header {
+    margin-left: 2%;
+    margin-right: 5%;
+    background-color: gray;
+}
+
+header nav ul{
+display: inline-block;
+
+}
+header nav ul li{
+    margin-right: 10px;
+}
+
+main img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#images{
+    float: left;
+    
+}
+
+footer{
+    background-color: grey;
+}
+
+button :hover{
+    
+}
