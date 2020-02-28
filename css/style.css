@@ -4,7 +4,7 @@ header {
     background-color: gray;
 }
 
-header nav ul{
+header nav ul li {
 display: inline-block;
 
 }
@@ -23,11 +23,21 @@ main img{
     float: left;
     
 }
-
+#imaage{
+    float: left;
+}
+#part2{
+    float: right;
+}
+main section div p{
+    float: right;
+    widows: 20px;
+}
 footer{
     background-color: grey;
 }
 
 button :hover{
-    
+    float: right;
+
 }
